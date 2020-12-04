@@ -13,12 +13,12 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'REUZ BOT☄'; 
-const instagram = 'https://instagram.com/reuz.id'; 
-const telegram = 'https://t.me/reuzzz'; 
+const BotName = 'BOT・R⃟༶F⃟༶D⃟༶I⃟'; 
+const instagram = 'https://instagram.com/rfdi_anz'; 
+const telegram = '-'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
-const youtube = 'https://www.youtube.com/c/reuz_id';
-//const grupch1 = 'belum ada grup'; 
+const youtube = '-';
+//const grupch1 = 'https://chat.whatsapp.com/FEFkTrVKowP5CMb1WNAL3p'; 
 //const grupch2 = 'belum ada grup' ; 
 const
 {
