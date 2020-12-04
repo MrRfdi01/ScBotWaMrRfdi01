@@ -1,4 +1,4 @@
-## REUZSC
+## MrRfdi01
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -16,8 +16,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/benisadewa/reuzsc
-> cd reuzsc
+> git clone https://github.com/MrRfdi01/ScBotWaMrRfdi01
+> cd ScBotWaMrRfdi01
 > bash install.sh
 > node index.js
 ```
@@ -27,7 +27,7 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 | KEADAAN       |               FITUR     |
 | :-----------: | :--------------------------------:  |
-|       ✅       |    PANTUN                         |
+|       ✅       | PANTUN                            |
 |       ✅       | ANIMEPICT                         |
 |       ✅       | STICKER                           |
 |       ✅       | NULIS                             |
@@ -41,15 +41,13 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 |       ✅       | ARTI NAMA                         |
 |       ✅       | SHOLAT                            |
 |       ✅       | QURAN                             |
-|       ✅       | KAMING SUN                        |
+|       ✅       | COMING SOON                       |
 
 ket : ✅ : aktif
 
 
 
 
-## THANKS TO
-* [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
-## DONASI
-* Gopay : 081271699856 Reuz
+## Contact
+* MrRfdi01 : wa.me/+6285282538690?text=Kamu+Sangat+Ganteng
