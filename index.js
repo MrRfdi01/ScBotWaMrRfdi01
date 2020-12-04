@@ -13,12 +13,13 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'BOT・R⃟༶F⃟༶D⃟༶I⃟'; 
-const instagram = 'https://instagram.com/rfdi_anz'; 
-const instagram = 'https://instagram.com/ff.sasuke._'; 
+const BotName = 'REUZ BOT☄'; 
+const instagram = 'https://instagram.com/reuz.id'; 
+const telegram = 'https://t.me/reuzzz'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
-//const grupch1 = 'https://chat.whatsapp.com/Dy18EusAyduBLD5BB2juA8'; 
-//const grupch2 = 'https://chat.whatsapp.com/FEFkTrVKowP5CMb1WNAL3p' ; 
+const youtube = 'https://www.youtube.com/c/reuz_id';
+//const grupch1 = 'belum ada grup'; 
+//const grupch2 = 'belum ada grup' ; 
 const
 {
    WAConnection,
@@ -63,11 +64,11 @@ fs.existsSync('./session.json') && conn.loadAuthInfo('./session.json')
 //conn.connectOptions.agent = ProxyAgent ('http://1.0.180.120:8080')
 conn.connect();
 
-conn.on('user-presence-update', json => console.log(json.id + ' presence is => ' + json.type)) || console.log('Bot by ig:@rfdi_anz')
+conn.on('user-presence-update', json => console.log(json.id + ' presence is => ' + json.type)) || console.log('Bot by ig:@reuz.id')
 conn.on('message-status-update', json =>
 {
    const participant = json.participant ? ' (' + json.participant + ')' : '' // participant exists when the message is from a group
-   console.log(`[ ${moment().format("HH:mm:ss")} ] => bot by ig:@rfdi_anz`)
+   console.log(`[ ${moment().format("HH:mm:ss")} ] => bot by ig:@reuz.id`)
 })
 
 conn.on('message-new', async(m) =>
